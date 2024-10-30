@@ -1,0 +1,13 @@
+form {
+    margin: auto;
+    width: 600px;
+    border: 1px black solid;
+}
+
+select {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
